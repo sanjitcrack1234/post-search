@@ -1,1 +1,6 @@
 python-3.7
+
+git add runtime.txt
+git commit -m "Update Python version in runtime.txt"
+git push heroku master
+
